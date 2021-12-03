@@ -1,5 +1,7 @@
 # my_flut
 
+command: Flutter run
+
 A new Flutter project.
 
 ## Getting Started
